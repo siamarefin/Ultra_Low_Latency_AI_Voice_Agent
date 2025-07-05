@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-pipecat @ git+https://github.com/pipecat-ai/pipecat.git
+git+https://github.com/pipecat-ai/pipecat.git
 google-generativeai
 pydantic
 python-multipart
